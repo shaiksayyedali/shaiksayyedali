@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @shaiksayyedali
+- 👀 I’m interested in Data Analytics
+- 🌱 I’m currently learning Data Analytics
+- 📫 Reach me through Linkdin.
